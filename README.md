@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in mobile apps and backend development
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m interested in mobile apps, web apps and backend development
+- 🌱 I’m currently learning new technologies 
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me ... alihassan@gmail.com
 
